@@ -12,6 +12,7 @@
     
     </div>
         leadwell<br />
+        <asp:Button ID="Button1" runat="server" Text="Button" />
     </form>
 </body>
 </html>
